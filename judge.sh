@@ -1,0 +1,1 @@
+atiro j --judg checker --grad grader --solv solver --make maker.cpp
