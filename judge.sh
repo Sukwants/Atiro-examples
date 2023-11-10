@@ -1,1 +1,1 @@
-atiro j --judg checker --grad grader --solv solver --make maker.cpp
+atiro j TEST --comp "-O2 -std=c++14" --judg checker --grad grader --solv solver --make maker
